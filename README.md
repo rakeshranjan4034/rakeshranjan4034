@@ -1,4 +1,4 @@
-![Rakesh Ranjan](https://www.canva.com/design/DAGHuX9QZzA/LIpyK3J2UF9IGRaDcCVw3w/edit?referrer=banners-landing-page&category=tACFapY0WQc)
+![Rakesh Ranjan](https://drive.google.com/file/d/1zPvxe5OsUAj8iH4kGbX9Bh8U9tktENFn/view?usp=drive_link)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rakesh</h2>
 
@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rakeshkumar4034@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66607e1f42e58acbb837d1cd) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -34,14 +34,14 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshranjan4034&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshranjan4034&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rakeshranjan4034/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rakeshkumar4034@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rakeshranjan4034/"><img src="https://img.shields.io/badge/-Rakesh%20Ranjan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rakeshkumar4034@gmail.com"><img src="https://img.shields.io/badge/-rakeshkumar4034@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
