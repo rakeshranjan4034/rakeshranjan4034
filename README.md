@@ -1,4 +1,4 @@
-![Rakesh Ranjan](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Rakesh Ranjan](https://www.canva.com/design/DAGHuX9QZzA/LIpyK3J2UF9IGRaDcCVw3w/edit?referrer=banners-landing-page&category=tACFapY0WQc)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rakesh</h2>
 
