@@ -1,4 +1,4 @@
-![Rakesh Ranjan](https://drive.google.com/file/d/1zPvxe5OsUAj8iH4kGbX9Bh8U9tktENFn/view?usp=drive_link)
+![Rakesh Ranjan](https://github.com/rakeshranjan4034/rakeshranjan4034/blob/main/Make%20your%20README%20(1).png?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rakesh</h2>
 
@@ -7,7 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;B.Tech in Mechanical Engineering graduate from JIS College Of Engineering, Excited about leveraging engineering principles in software development and exploring interdisciplinary projects.\
+🎓 &nbsp;B.Tech in Mechanical Engineering graduate from JIS College Of Engineering, Excited about 
+leveraging engineering principles in software development and exploring interdisciplinary projects.\
 🌱 &nbsp;I'm on track for learning more about Software Development.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
